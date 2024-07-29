@@ -6,8 +6,8 @@ export const navLinks = [
     title: "About",
   },
   {
-    id: "work",
-    title: "Work",
+    id: "projects",
+    title: "Projects",
   },
   {
     id: "contact",
@@ -29,8 +29,8 @@ const services = [
     description: "Innovated the development of an Air Canvas tool leveraging OpenCV and NumPy, enabling gesture-based drawing via webcam",
   },
   {
-    title: "Society Websites",
-    description: "As the Technical Head of LEAD, the tech society at TIET, I spearheaded the development of multiple event websites for the society. Additionally, I organized workshops on web development to mentor junior members",
+    title: "Ecommerce website",
+    description: "Developed a fully functional e-commerce website using React.js, Styled Components, and Context API.  Implemented features like dynamic product fetching,responsive design, and real-time cart updates.",
   },
 ];
 
@@ -82,6 +82,10 @@ const technologies = [
   {
     name: "C/C++",
     percentage: 75,
+  },
+  {
+    name: "NodeJs",
+    percentage: 50,
   },
 ];
 
