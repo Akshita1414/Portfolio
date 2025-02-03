@@ -139,7 +139,7 @@ const Hero = () => {
 
           <div className="position-relative mt-10 align-center ">
           <a
-            href="https://drive.google.com/file/d/1O9L0Mh4EITuv0dHVMGonObZiTNiy_mfz/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1QuaYsbM4CSPXR8qoTACZG9EjJ7BtbbHQ/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >
